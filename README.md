@@ -15,7 +15,7 @@ Pada proyek ini saya menganalisis data dari Air Quality Dataset (https://github.
      
 **Tools** : Python, Pandas, Mathplotlib, Seaborn, Streamlit
      
-**Link Proyek** :
+**Link Proyek** : https://github.com/klaelimunifah/Proyek-Analisis-Data---Kurniati-L-M/tree/main
 
 ### Proyek Akhir : Klasifikasi Gambar
 Kriteria: 
