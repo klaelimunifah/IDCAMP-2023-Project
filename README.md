@@ -32,11 +32,11 @@ Kriteria:
 
 Berhasil memenuhi kriteria dengan accuracy >93%
 
-**Skills** : Klasifikasi Gambar, Machine Learning, Image Augmentation
+**Skills**: Klasifikasi Gambar, Machine Learning, Image Augmentation
 
-**Tools** : Python, Tensorflow, Numpy, Mathplotlib, Import files, Zipfile
+**Tools**: Python, Tensorflow, Numpy, Mathplotlib, Import files, Zipfile
 
 **Link Proyek** : https://github.com/klaelimunifah/IDCAMP-2023-Project/tree/ebe951926ebe39eeb8e3e69c91f9f4edd2575584/Proyek%20Akhir%20%3A%20Klasifikasi%20Gambar
    
-## Kelas Intermediete
+## Kelas Intermediate
 
