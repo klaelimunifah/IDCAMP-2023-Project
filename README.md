@@ -36,7 +36,7 @@ Berhasil memenuhi kriteria dengan accuracy >93%
 
 **Tools** : Python, Tensorflow, Numpy, Mathplotlib, Import files, Zipfile
 
-**Link Proyek** : 
+**Link Proyek** : https://github.com/klaelimunifah/IDCAMP-2023-Project/tree/ebe951926ebe39eeb8e3e69c91f9f4edd2575584/Proyek%20Akhir%20%3A%20Klasifikasi%20Gambar
    
-3. Kelas Intermediete
+## Kelas Intermediete
 
