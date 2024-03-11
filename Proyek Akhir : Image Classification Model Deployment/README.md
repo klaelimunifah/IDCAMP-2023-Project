@@ -1,1 +1,2 @@
-
+# Proyek Akhir : Image Classification Model Deployment
+Dataset yang digunakan adalah dataset Garbage dataset (https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2). File gambar berformat JPG dengan jumlah pixel yang bervariasi. Dari keseluruhan dataset, hanya 3 kategori yang digunakan yaitu cardboards, clothes, dan plastic. Ketiga kategori tersebut membetuk dataset baru berisi 10208 gambar. Dataset disimpan dalam google drive pribadi (MyDrive) bernama image_dataset.zip (https://drive.google.com/file/d/1sNTuEE9Ize2wVw7IXrlTTuNZjA4mAQ2G/view?usp=sharing) . Dataset kemudian diekstrak dengan fungsi mount dan extractall zipfile. Setelah berhasil diekstraksi, dataset kemudian disimpan dalam variable base_dir.
