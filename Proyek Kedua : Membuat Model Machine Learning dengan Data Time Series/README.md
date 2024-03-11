@@ -1,1 +1,2 @@
-
+# Proyek Kedua : Membuat Model Machine Learning dengan Data Time Series
+Dataset yang digunakan adalah dataset LSTM-Multivariate_pollution.csv (https://www.kaggle.com/datasets/rupakroy/lstm-datasets-multivariate-univariate) . File berformat csv yang kemudian dibaca dengan menggunakan library pandas. Secara keseluruhan terdapat 43800 data pada masing-masing dari 9 kolom. Kolom yang digunakan adalah kolom date dan press yang kemudian disimpan dalam tabel df. Setelah ditemukan tidak ada data yang kosong pada masing-masing kolom, data dapat melalui proses selanjutnya
