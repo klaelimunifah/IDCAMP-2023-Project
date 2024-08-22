@@ -93,3 +93,40 @@ Proyek ini menggunakan Garbage dataset (https://www.kaggle.com/datasets/sumn2u/g
 **Tools**: Python, Tensorflow, Numpy, Mathplotlib, SKLearn, Zipfile, Pathlib
 
 **Link Proyek** : https://github.com/klaelimunifah/IDCAMP-2023-Project/tree/cb1ee8e5a507e212b9fe1423e0ed2950b0cb8e61/Proyek%20Akhir%20%3A%20Image%20Classification%20Model%20Deployment
+
+## 3. Kelas Expert
+### Submission Pertama: Menyelesaikan Permasalahan Human Resources
+Kriteria:
+- Menggunakan template proyek yang telah disediakan
+- Menjalankan seluruh proses dalam Proyek Data Science
+- Membuat minimal satu Business Dashboard
+- Membuat video singkat yang menjelaskan business dashboard dan kesimpulan proyek
+- Memberikan beberapa rekomendasi action items untuk yang dapat diikuti oleh perusahaan untuk mencapai target mereka
+- Membuat visualisasi data yang baik dan efektif dengan menerapkan prinsip desain dan integritas.
+- Membuat model machine learning untuk membantu departemen HR. Pastikan Anda membuat script Python sederhana untuk menjalankan proses prediksi.
+
+Proyek ini menggunakan Jaya Jaya Maju dataset (https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee). Berhasil memenuhi seluruh kriteria dengan catatan menerapkan pemilihan warna pada dashboard dengan lebih baik. Model machine learning yang dibuat menerapkan teknik Gradient Boosting Classifier akurasi training sebesar 98.4% dan akurasi validation sebesar 86.79% dengan nilai ROC training sebesar 95.6% dan nilai ROC validation sebesar 74.37%.
+
+**Skills**: Data Preparation, Data Understanding, Data Visualization, Machine Learning Classification, Model Evaluation, Business Dashboard and Business Understanding
+
+**Tools**: Python, Pandas, Numpy, Mathplotlib, Seaborn, SKLearn, Plotly, Category Encoder, Joblib, Squarify, Google Looker Studio, Streamlit
+
+**Link Proyek** : https://github.com/klaelimunifah/Submission-Pertama--Menyelesaikan-Permasalahan-Human-Resources
+
+### Submission Akhir: Menyelesaikan Permasalahan Institusi Pendidikan
+Kriteria:
+- Menggunakan template proyek yang telah disediakan
+- Menjalankan seluruh proses dalam Proyek Data Science
+- Membuat minimal satu Business Dashboard
+- Membuat video singkat yang menjelaskan business dashboard dan kesimpulan proyek
+- Memberikan beberapa rekomendasi action items untuk yang dapat diikuti oleh perusahaan untuk mencapai target mereka
+- Membuat visualisasi data yang baik dan efektif dengan menerapkan prinsip desain dan integritas.
+- Membuat model machine learning untuk membantu departemen HR. Pastikan Anda membuat script Python sederhana untuk menjalankan proses prediksi.
+
+Proyek ini menggunakan Jaya Jaya Institut dataset (https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/README.md). Berhasil memenuhi seluruh kriteria dengan catatan menerapkan tampilan UI yang lebih baik. Model machine learning yang dibuat menerapkan teknik XGBClassifier dengan mencapai 0,9765 atau 97,65% dengan score micro OVR(One Vs Rest) dan macro OVR ROC AUC bernilai 1 atau 100%. Score micro OVR(One Vs Rest) dan macro OVR ROC AUC menunjukkan kemampuan model dalam memisahkan 1 kelas dari seluruh kelas lain. Sedangkan pada data validation score accuracy hanya 0,7681 atau 76,81% dengan score micro OVR(One Vs Rest) dan macro OVR ROC AUC berturut-turut bernilai 0,91 atau 91%% dan 0,88 atau 88%. Dapat dilihat bahwa accuracy score training dan validation memiliki perbedaan yang cukup besar. Akan tetapi, ketika melihat score micro OVR(One Vs Rest) dan macro OVR ROC AUC dari validation, nilai tersebut sudah bisa diterima untuk menggolongkan model dapat memisahkan class dengan baik.
+
+**Skills**: Data Preparation, Data Understanding, Data Visualization, Machine Learning Classification, Model Evaluation, Business Dashboard and Business Understanding
+
+**Tools**: Python, Pandas, Numpy, Mathplotlib, Seaborn, Scipy, SKLearn, XGBoost, Itertools, Google Looker Studio, Streamlit, Streamlit-extras
+
+**Link Proyek** : https://github.com/klaelimunifah/student_model
